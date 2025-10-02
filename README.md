@@ -1,4 +1,4 @@
-##Amazon-Price-Tracker
+## Amazon-Price-Tracker
 
 -Scraped Amazon product data (title & price) using BeautifulSoup and Requests.
 
